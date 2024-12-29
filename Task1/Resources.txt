@@ -1,0 +1,17 @@
+references and resources:
+
+- Youtube videos and Webpages
+
+fits file handling:
+https://www.youtube.com/watch?v=_DzSIeruotQ
+https://www.youtube.com/watch?v=tcIsgL1bs1I
+https://www.youtube.com/watch?v=goH9yXu4jWw
+
+region props function: 
+https://scikit-image.org/docs/stable/api/skimage.measure.html
+https://scikit-image.org/docs/0.24.x/auto_examples/segmentation/plot_regionprops.html
+https://www.youtube.com/watch?v=STnoJ3YCWus
+
+Object detection - Otsu threshold
+https://www.youtube.com/watch?v=CTOURPZftuU
+https://www.youtube.com/watch?v=aWS3Ok52tYU
